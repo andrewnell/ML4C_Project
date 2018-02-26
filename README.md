@@ -2,7 +2,7 @@
 Project Folder for Team Project on Machine Learning for Cities
 
 ### Team
-Jon Kastelan
-Bailey Griswold
-Imran Khan
-Andrew Nell
+- Jon Kastelan
+- Bailey Griswold
+- Imran Khan
+- Andrew Nell
