@@ -1,0 +1,1646 @@
+,SCHOOL CODE,SCHOOL NAME
+0,M015,ps 015 roberto clemente
+1,M019,ps 019 asher levy
+2,M020,ps 020 anna silver
+3,M034,ps 034 franklin d roosevelt
+4,M063,the star academy - ps63
+5,M064,ps 064 robert simon
+6,M110,ps 110 florence nightingale
+7,M134,ps 134 henrietta szold
+8,M140,ps 140 nathan straus
+9,M142,ps 142 amalia castro
+10,M184,ps 184m shuang wen
+11,M188,ps 188 the island school
+12,M301,"technology, arts, and sciences studio"
+13,M315,the east village community school
+14,M332,university neighborhood middle school
+15,M361,the children's workshop school
+16,M363,neighborhood school
+17,M364,earth school
+18,M378,school for global leaders
+19,M450,east side community school
+20,M539,"new explorations into science, technology and math high school"
+21,M839,tompkins square middle school
+22,M001,ps 001 alfred e smith
+23,M002,ps 002 meyer london
+24,M003,ps 003 charrette school
+25,M006,ps 006 lillie d blake
+26,M011,ps 011 william t harris
+27,M033,ps 033 chelsea prep
+28,M040,ps 040 augustus saint-gaudens
+29,M041,ps 041 greenwich village
+30,M042,ps 042 benjamin altman
+31,M051,ps 051 elias howe
+32,M059,ps 059 beekman hill international
+33,M077,ps 77 lower lab school
+34,M089,ps 89
+35,M104,jhs 104 simon baruch
+36,M111,ps 111 adolph s ochs
+37,M114,east side middle school
+38,M116,ps 116 mary lindley murray
+39,M124,ps 124 yung wing
+40,M126,ps 126 jacob august riis
+41,M130,ps 130 hernando de soto
+42,M131,ms 131
+43,M150,ps 150
+44,M151,yorkville community school
+45,M158,ps 158 bayard taylor
+46,M167,jhs 167 robert f wagner
+47,M177,yorkville east middle school
+48,M183,ps 183 robert l stevenson
+49,M198,ps 198 isador e ida straus
+50,M212,ps 212 midtown west
+51,M217,ps/is 217 roosevelt island
+52,M225,ella baker school
+53,M234,ps 234 independence school
+54,M255,ms 255 salk school of science
+55,M260,ms 260 clinton school writers & artists
+56,M267,"east side elementary school, ps 267"
+57,M276,battery park city school
+58,M281,the river school
+59,M289,is 289
+60,M290,ps 290 manhattan new school
+61,M297,ms 297
+62,M312,new york city lab middle school for collaborative studies
+63,M340,sixth avenue elementary school
+64,M343,the peck slip school
+65,M347,the 47 american sign language & english lower school
+66,M397,spruce street school
+67,M407,institute for collaborative education
+68,M408,professional performing arts high school
+69,M413,school of the future high school
+70,M422,quest to learn
+71,M442,"ballet tech, nyc public school for dance"
+72,M527,ps 527 - east side school for social action
+73,M655,life sciences secondary school
+74,M896,lower manhattan community middle school
+75,M933,city knoll middle school
+76,M009,ps 009 sarah anderson
+77,M054,jhs 054 booker t washington
+78,M075,ps 075 emily dickinson
+79,M076,ps 076 a philip randolph
+80,M084,ps 084 lillian weber
+81,M087,ps 087 william sherman
+82,M145,"ps 145, the bloomingdale school"
+83,M149,ps 149 sojourner truth
+84,M163,ps 163 alfred e smith
+85,M165,ps 165 robert e simon
+86,M166,ps 166 the richard rodgers school of the arts and technology
+87,M180,ps 180 hugo newman
+88,M185,ps 185 - the early childhood discovery and design magnet school
+89,M191,ps 191 amsterdam
+90,M199,ps 199 jessie isador straus
+91,M208,ps 208 alain l locke
+92,M241,stem institute of manhattan
+93,M242,ps 242 - the young diplomats magnet academy
+94,M243,ms 243 center school
+95,M245,ms m245 the computer school
+96,M247,ms m247 dual language middle school
+97,M250,ms 250 west side collaborative middle school
+98,M256,ms 256 academic & athletic excellence
+99,M258,community action school - ms 258
+100,M291,west end secondary school of urban studies
+101,M333,ps 333 manhattan school for children
+102,M334,the anderson school
+103,M415,wadleigh secondary school for the performing & visual arts
+104,M421,west prep academy
+105,M452,ps 452
+106,M859,special music school
+107,M860,frederick douglass academy ii secondary school
+108,M862,mott hall ii
+109,M007,ps 007 samuel stern
+110,M012,tag young scholars
+111,M037,river east elementary
+112,M038,ps 38 roberto clemente
+113,M050,ps 050 vito marcantonio
+114,M057,james weldon johnson
+115,M072,the lexington academy
+116,M083,ps 083 luis munoz rivera
+117,M096,ps 096 joseph lanzetta
+118,M102,ps 102 jacques cartier
+119,M108,ps 108 assemblyman angelo del toro educational complex
+120,M112,ps 112 jose celso barbosa
+121,M146,ps 146 ann m short
+122,M155,ps 155 william paca
+123,M171,ps 171 patrick henry
+124,M182,the bilingual bicultural school
+125,M206,ps 206 jose celso barbosa
+126,M224,ms 224 manhattan east school for arts & academics
+127,M372,esperanza preparatory academy
+128,M375,mosaic preparatory academy
+129,M377,renaissance school of the arts
+130,M406,global technology preparatory
+131,M610,young women's leadership school
+132,M825,isaac newton middle school for math & science
+133,M964,central park east ii
+134,M030,ps 030 hernandez/hughes
+135,M036,ps 036 margaret douglas
+136,M046,ps 046 arthur tappan
+137,M092,ps 092 mary mcleod bethune
+138,M123,ps 123 mahalia jackson
+139,M125,ps 125 ralph bunche
+140,M129,ps 129 john h finley
+141,M133,ps 133 fred r moore
+142,M148,eagle academy for young men of harlem
+143,M154,ps 154 harriet tubman
+144,M161,ps 161 pedro albizu campos
+145,M175,ps 175 henry h garnet
+146,M194,ps 194 countee cullen
+147,M197,ps 197 john b russwurm
+148,M200,ps 200- the james mccune smith school
+149,M286,is m286 renaissance leadership academy
+150,M302,kappa iv
+151,M318,thurgood marshall academy lower school
+152,M362,columbia secondary school
+153,M499,frederick douglass academy
+154,M514,new design middle school
+155,M517,teachers college community school
+156,M670,thurgood marshall academy for learning and social change
+157,M004,ps 004 duke ellington
+158,M005,ps 005 ellen lurie
+159,M008,ps 008 luis belliard
+160,M018,ps 018 park terrace
+161,M028,ps 028 wright brothers
+162,M048,ps 048 po michael j buczek
+163,M052,jhs 052 inwood
+164,M098,ps 098 shorac kappock
+165,M103,dos puentes elementary school
+166,M115,ps 115 alexander humboldt
+167,M128,ps 128 audubon
+168,M132,ps 132 juan pablo duarte
+169,M143,jhs 143 eleanor roosevelt
+170,M152,ps 152 dyckman valley
+171,M153,ps 153 adam clayton powell
+172,M173,ps 173
+173,M178,professor juan bosch public school
+174,M187,ps/is 187 hudson cliffs
+175,M189,ps 189
+176,M192,ps 192 jacob h schiff
+177,M209,hamilton grange middle school
+178,M210,ps/is 210 - twenty-first century academy for community leadership
+179,M218,is 218 salome urena
+180,M223,the mott hall school
+181,M278,paula hedbavny school
+182,M293,city college academy of the arts
+183,M311,amistad dual language school
+184,M314,muscota
+185,M319,ms 319 - maria teresa
+186,M322,middle school 322
+187,M324,ms 324 - patria mirabal
+188,M328,ms 328 - manhattan middle school for scientific inquiry
+189,M346,community health academy of the heights
+190,M348,washington heights expeditionary learning school
+191,M349,harbor heights
+192,M366,washington heights academy
+193,M368,hamilton heights school
+194,M528,is 528 bea fuller rodgers school
+195,X001,ps 001 courtlandt school
+196,X005,ps 5 port morris
+197,X018,ps 018 john peter zenger
+198,X025,ps 025 bilingual school
+199,X029,ps/ms 029 melrose school
+200,X030,ps 030 wilton
+201,X031,ps/ms 031 the william lloyd garrison
+202,X043,ps 043 jonas bronck
+203,X049,ps 049 willis avenue
+204,X065,ps 065 mother hale academy
+205,X151,jhs 151 lou gehrig
+206,X154,ps 154 jonathan d hyatt
+207,X157,ps 157 grove hill
+208,X161,ps 161 ponce de leon
+209,X179,ps 179
+210,X221,south bronx preparatory: a college board school
+211,X223,ms 223 the laboratory school of finance and technology
+212,X224,ps / is 224
+213,X277,ps 277
+214,X296,south bronx academy for applied media
+215,X298,academy of public relations
+216,X343,academy of applied mathematics and technology
+217,X359,concourse village elementary school
+218,X369,young leaders elementary school
+219,X500,hostos-lincoln academy of science
+220,X551,the urban assembly bronx academy of letters
+221,X584,is 584
+222,X014,ps x014 senator john calandra
+223,X036,ps 036 unionport
+224,X048,ps 048 joseph r drake
+225,X062,ps 062 inocensio casanova
+226,X069,ps 069 journey prep school
+227,X071,ps 071 rose e scala
+228,X072,ps 072 dr william dorney
+229,X075,ps 75 school of research and discovery
+230,X093,ps 093 albert g oliver
+231,X100,ps 100 isaac clason
+232,X101,ms x101 edward r byrne
+233,X107,ps 107
+234,X119,ps 119
+235,X123,jhs 123 james m kieran
+236,X125,jhs 125 henry hudson
+237,X130,ps 130 abram stevens hewitt
+238,X131,jhs 131 albert einstein
+239,X138,ps 138 samuel randall
+240,X140,ps x140 the eagle school
+241,X146,ps 146 edward collins
+242,X152,ps 152 evergreen
+243,X182,ps 182
+244,X269,bronx studio school for writers and artists
+245,X301,ms 301 paul l dunbar
+246,X302,ms 302 luisa dessus cruz
+247,X304,ps 304 early childhood school
+248,X333,ps 333 - the museum school
+249,X337,the school for inquiry and social justice
+250,X367,"archimedes academy for math, science and technology applications"
+251,X371,urban institute of mathematics
+252,X375,the bronx mathematics preparatory school
+253,X376,antonia pantoja preparatory academy: a college board school
+254,X392,bronx delta school
+255,X424,the hunts point school
+256,X448,soundview academy for culture and scholarship
+257,X467,mott hall community school
+258,X562,blueprint middle school
+259,X583,ps 583
+260,X004,ps/ms 004 crotona park west
+261,X011,ps 011 highbridge
+262,X022,jhs 022 jordan l mott
+263,X028,ps 028 mount hope
+264,X035,ps 035 franz siegel
+265,X042,ps 042 claremont
+266,X053,ps 053 basheer quisim
+267,X055,ps 055 benjamin franklin
+268,X058,ps 058
+269,X063,ps 063 author's academy
+270,X070,ps 070 max schoenfeld
+271,X073,ps 073 bronx
+272,X088,ps x088 - s silverstein little sparrow school
+273,X109,ps 109 sedgwick
+274,X110,ps 110 theodore schoenfeld
+275,X114,ps x114 - luis llorens torres schools
+276,X117,is 117 joseph h wade
+277,X126,ps 126 dr marjorie h dunbar
+278,X128,mott hall iii
+279,X132,ps 132 garret a morgan
+280,X163,ps 163 arthur a schomburg
+281,X170,ps 170
+282,X199,ps 199x - the shakespeare school
+283,X204,ps 204 morris heights
+284,X215,kappa
+285,X218,ps/is 218 rafael hernandez dual language magnet school
+286,X219,is 219 new venture school
+287,X229,is 229 roland patterson
+288,X231,eagle academy for young men
+289,X232,is 232
+290,X236,ps 236 langston hughes
+291,X241,"urban assembly school for applied math and science, the"
+292,X274,the new american academy at roberto clemente state park
+293,X294,the walton avenue school
+294,X303,is x303 leadership & community service
+295,X311,lucero elementary school
+296,X313,is 313 school of leadership development
+297,X323,bronx writing academy
+298,X324,bronx early college academy for teaching & learning
+299,X325,urban science academy
+300,X327,comprehensive model school project ms 327
+301,X328,new millennium business academy middle school
+302,X339,is 339
+303,X350,new directions secondary school
+304,X361,the highbridge green school
+305,X413,bronx high school for medical science
+306,X443,the family school
+307,X449,grant avenue elementary school
+308,X454,science and technology academy: a mott hall school
+309,X457,sheridan academy for young leaders
+310,X505,"bronx school for law, government and justice"
+311,X555,mount eden children's academy
+312,X568,young women's leadership school of the bronx
+313,X003,ps 3 raul julia micro society
+314,X007,milton fein school
+315,X008,ps 008 issac varian
+316,X009,ps 9 ryer avenue elementary school
+317,X015,ps x015 institute for environmental learning
+318,X020,"ps/ms 20 pogeorge j werdann, iii"
+319,X023,ps 023 the new children's school
+320,X024,ps 024 spuyten duyvil
+321,X032,ps 032 belmont
+322,X033,ps 033 timothy dwight
+323,X037,ps x037 - multiple intelligence school
+324,X045,thomas c giordano middle school 45
+325,X046,ps 046 edgar allan poe
+326,X051,ps 051 bronx new school
+327,X054,ps / is 54
+328,X056,ps 056 norwood heights
+329,X059,ps 059 the community school of technology
+330,X077,bedford park elementary school
+331,X080,jhs 080 the mosholu parkway
+332,X081,ps 081 robert j christen
+333,X085,ps 085 great expectations
+334,X086,ps 086 kingsbridge heights
+335,X091,ps 091 bronx
+336,X094,ps 094 kings college school
+337,X095,ps 095 sheila mencher
+338,X118,jhs 118 william w niles
+339,X141,riverdale / kingsbridge academy (middle school / high school 141)
+340,X159,ps 159 luis munoz marin biling
+341,X205,ps 205 fiorello laguardia
+342,X206,is 206 ann mersereau
+343,X207,ps 207
+344,X209,ps 209
+345,X225,theatre arts production company school
+346,X226,ps 226
+347,X228,jonas bronck academy
+348,X243,west bronx academy for the future
+349,X244,the new school for leadership and journalism
+350,X246,ps 246 poe center
+351,X254,is 254
+352,X279,"ps 279 captain manuel rivera, jr"
+353,X280,ps/ms 280 mosholu parkway
+354,X291,ps 291
+355,X306,ps 306
+356,X307,luisa pineiro fuentes school of science and discovery
+357,X308,bronx dance academy school
+358,X310,ps 310 marble hill
+359,X315,ps 315 lab school
+360,X331,the bronx school of young leaders
+361,X340,ps 340
+362,X342,international school for liberal arts
+363,X344,ampark neighborhood
+364,X360,ps 360
+365,X363,academy for personal leadership and excellence
+366,X368,in-tech academy (ms / high school 368)
+367,X382,"elementary school for math, science, and technology"
+368,X386,school for environmental citizenship
+369,X390,ms 390
+370,X391,the angelo patri middle school
+371,X396,ps 396
+372,X447,creston academy
+373,X459,east fordham academy for the arts
+374,X016,ps 016 wakefield
+375,X019,ps 019 judith k weiss
+376,X021,ps 021 philip h sheridan
+377,X041,ps 041 gun hill road
+378,X068,ps 068 bronx
+379,X076,ps 076 the bennington school
+380,X078,ps 078 anne hutchinson
+381,X083,ps 083 donald hertz
+382,X087,ps 087 bronx
+383,X089,ps 089 bronx
+384,X096,ps 096 richard rodgers
+385,X097,ps 097 bronx
+386,X103,ps 103 hector fontanez
+387,X105,ps 105 sen abraham bernstein
+388,X106,ps 106 parkchester
+389,X108,ps 108 philip j abinanti
+390,X111,ps 111 seton falls
+391,X112,ps 112 bronxwood
+392,X121,ps 121 throop
+393,X127,jhs 127 the castle hill
+394,X144,jhs 144 michelangelo
+395,X153,ps 153 helen keller
+396,X160,ps 160 walt disney
+397,X169,baychester academy
+398,X175,ps 175 city island
+399,X178,ps 178 - dr selman waksman
+400,X180,ms 180 dr daniel hale williams
+401,X181,is 181 pablo casals
+402,X189,cornerstone academy for social action
+403,X194,ps/ms 194
+404,X287,the forward school
+405,X326,bronx green middle school
+406,X355,bronx alliance middle school
+407,X357,young voices academy of the bronx
+408,X370,school of diplomacy
+409,X462,cornerstone academy for social action middle school (casa)
+410,X468,pelham academy of academics and community engagement
+411,X481,ps 481
+412,X483,ps 483
+413,X498,ps/ms 11x498 - van nest academy
+414,X529,one world middle school at edenwald
+415,X532,baychester middle school
+416,X556,bronx park middle school
+417,X566,pelham gardens middle school
+418,X567,linden tree elementary school
+419,X006,ps 006 west farms
+420,X044,ps 044 david c farragut
+421,X047,ps 047 john randolph
+422,X057,ps 057 crescent
+423,X061,ps 061 francisco oller
+424,X066,ps 066 school of higher expectations
+425,X067,ps 067 mohegan school
+426,X092,ps 092 bronx
+427,X098,jhs 098 herman ridder
+428,X129,ms 129 academy for independent learning and leadership
+429,X134,ps 134 george f bristow
+430,X150,ps 150 charles james fox
+431,X190,esmt- is 190
+432,X195,ps 195
+433,X196,ps 196
+434,X211,ps 211
+435,X212,ps 212
+436,X214,ps 214
+437,X217,school of performing arts
+438,X242,mott hall v
+439,X267,bronx latin
+440,X271,east bronx academy for the future
+441,X273,frederick douglass academy v middle school
+442,X286,fannie lou hamer middle school
+443,X300,the school of science and applied learning
+444,X314,fairmont neighborhood school
+445,X316,kappa iii
+446,X318,"is x318 math, science & technology through arts"
+447,X341,accion academy
+448,X372,urban assembly school for wildlife conservation
+449,X383,emolior academy
+450,X384,entrada academy
+451,X458,samara community school
+452,X463,urban scholars community school
+453,X531,archer elementary school
+454,X536,ps 536
+455,X691,bronx little school
+456,K003,ps 003 the bedford village
+457,K008,ps 008 robert fulton
+458,K009,ps 009 teunis g bergen
+459,K011,ps 011 purvis j behan
+460,K020,ps 020 clinton hill
+461,K044,ps 044 marcus garvey
+462,K046,ps 046 edward c blum
+463,K054,ps 054 samuel c barnes
+464,K056,ps 056 lewis h latimer
+465,K067,ps 067 charles a dorsey
+466,K093,ps 093 william h prescott
+467,K113,ms 113 ronald edmonds learning center
+468,K133,ps 133 william a butler
+469,K256,ps 256 benjamin banneker
+470,K265,dr susan s mckinney secondary school of the arts
+471,K266,ms k266 - park place community middle school
+472,K270,ps 270 johann dekalb
+473,K282,ps 282 park slope
+474,K287,ps 287 bailey k ashford
+475,K301,satellite east middle school
+476,K305,ps 305 dr peter ray
+477,K307,ps 307 daniel hale williams
+478,K313,satellite west middle school
+479,K351,the urban assembly unison school
+480,K492,academy of arts and letters
+481,K527,urban assembly institute of math and science for young women
+482,K691,fort greene preparatory academy
+483,K016,ps 016 leonard dunkly
+484,K017,ps 017 henry d woodworth
+485,K018,ps 018 edward bush
+486,K023,ps 023 carter g woodson
+487,K031,ps 031 samuel f dupont
+488,K034,ps 034 oliver h perry
+489,K050,jhs 050 john d wells
+490,K059,ps 059 william floyd
+491,K071,juan morel campos secondary school
+492,K084,ps 084 jose de diego
+493,K110,ps 110 the monitor
+494,K120,ps 120 carlos tapia
+495,K126,john ericsson middle school 126
+496,K132,ps 132 the conselyea school
+497,K147,ps 147 isaac remsen
+498,K157,ps/is 157 the benjamin franklin health & science academy
+499,K196,ps 196 ten eyck
+500,K250,ps 250 george h lindsay
+501,K257,ps 257 john f hylan
+502,K297,ps 297 abraham stockton
+503,K318,is 318 eugenio maria de hostos
+504,K319,ps 319
+505,K380,ps 380 john wayne elementary
+506,K414,brooklyn arbor elementary school
+507,K577,conselyea preparatory school
+508,K582,ms 582
+509,K586,lyons community school
+510,K614,young women's leadership school of brooklyn
+511,K001,ps 001 the bergen
+512,K010,"magnet school of math, science and design technology"
+513,K015,ps 015 patrick f daly
+514,K024,ps 024
+515,K029,ps 029 john m harrigan
+516,K032,ps 032 samuel mills sprole
+517,K038,ps 038 the pacific
+518,K039,ps 039 henry bristow
+519,K051,ms 51 william alexander
+520,K058,ps 058 the carroll
+521,K088,jhs 088 peter rouget
+522,K094,ps 094 the henry longfellow
+523,K107,ps 107 john w kimball
+524,K118,the maurice sendak community school
+525,K124,ps 124 silas b dutcher
+526,K130,ps 130 the parkside
+527,K131,ps 131 brooklyn
+528,K136,is 136 charles o dewey
+529,K146,ps 146
+530,K154,the windsor terrace school
+531,K169,ps 169 sunset park
+532,K172,ps 172 beacon school of excellence
+533,K230,ps 230 doris l cohen
+534,K261,ps 261 philip livingston
+535,K295,ps 295
+536,K321,ps 321 william penn
+537,K418,the childrens school
+538,K442,ms 442 carroll gardens school for innovation
+539,K443,new voices school of academic & creative arts
+540,K447,the math & science exploratory school
+541,K448,brooklyn secondary school for collaborative studies
+542,K464,park slope collegiate
+543,K497,school for international studies
+544,K516,sunset park avenues elementary school
+545,K676,red hook neighborhood school
+546,K821,sunset park prep
+547,K839,ms 839
+548,K005,ps 005 dr ronald mcnair
+549,K021,ps 021 crispus attucks
+550,K025,ps 025 eubie blake school
+551,K026,ps 026 jesse owens
+552,K028,ps 028 the warren prep academy
+553,K035,ms 035 stephen decatur
+554,K040,ps 040 george w carver
+555,K057,jhs 057 whitelaw reid
+556,K081,ps 081 thaddeus stevens
+557,K243,ps 243k- the weeksville school
+558,K262,ps 262 el hajj malik el shabazz elementary school
+559,K267,"ms 267 math, science & technology"
+560,K308,ps 308 clara cardwell
+561,K309,ps 309 the george e wibecan preparatory academy
+562,K335,ps 335 granville t woods
+563,K627,brighter choice community school
+564,K628,brooklyn brownstone school
+565,K681,madiba prep middle school
+566,K002,parkside preparatory academy
+567,K006,ps 006
+568,K012,dr jacqueline peek-davis school
+569,K061,ms 061 dr gladstone h atwell
+570,K091,ps 091 the albany avenue school
+571,K092,ps 092 adrian hegeman
+572,K138,ps 138 brooklyn
+573,K161,ps 161 the crown
+574,K181,ps 181 brooklyn
+575,K189,ps 189 the bilingual center
+576,K191,ps 191 paul robeson
+577,K221,ps 221 toussaint l'ouverture
+578,K241,ps 241 emma l johnston
+579,K246,ms 246 walt whitman
+580,K249,ps 249 the caton
+581,K289,ps 289 george v brower
+582,K316,ps 316 elijah stroud
+583,K340,is 340
+584,K352,ebbets field middle school
+585,K353,elijah stroud middle school
+586,K354,the school of integrated learning
+587,K375,ps 375 jackie robinson school
+588,K382,academy for college preparation and career exploration: a college board school
+589,K394,ms k394
+590,K397,ps 397 foster-laurie
+591,K398,ps 398 walter weaver
+592,K399,ps 399 stanley eugene clark
+593,K484,ronald edmonds learning center ii
+594,K531,"school for human rights, the"
+595,K532,new bridges elementary
+596,K543,"science, technology and research early college high school at erasmus"
+597,K590,medgar evers college preparatory school
+598,K705,brooklyn arts and science elementary school
+599,K722,new heights middle school
+600,K770,ps 770 new american academy
+601,K066,ps 66
+602,K068,is 068 isaac bildersee
+603,K114,ps 114 ryder elementary
+604,K115,ps 115 daniel mucatel school
+605,K135,ps 135 sheldon a brookner
+606,K208,ps 208 elsa ebeling
+607,K211,is 211 john wilson
+608,K219,ps 219 kennedy-king
+609,K233,ps 233 langston hughes
+610,K235,ps 235 lenox school
+611,K244,ps 244 richard r green
+612,K268,ps 268 emma lazarus
+613,K272,ps 272 curtis estabrook
+614,K276,ps 276 louis marshall
+615,K279,ps 279 herman schreiber
+616,K285,is 285 meyer levin
+617,K366,the science and medicine middle school
+618,K581,east flatbush community research school
+619,K588,middle school for art and philosophy
+620,K598,middle school of marketing and legal studies
+621,K763,brooklyn science and engineering academy
+622,K007,ps 007 abraham lincoln
+623,K013,ps 013 roberto clemente
+624,K065,ps 065
+625,K089,ps 089 cypress hills
+626,K108,ps 108 sal abbracciamento
+627,K149,ps 149 danny kaye
+628,K158,ps 158 warwick
+629,K159,ps 159 isaac pitkin
+630,K171,is 171 abraham lincoln
+631,K190,ps 190 sheffield
+632,K202,ps 202 ernest s jenkyns
+633,K213,ps 213 new lots
+634,K214,ps 214 michael friedsam
+635,K218,jhs 218 james p sinnott
+636,K224,ps 224 hale a woodruff
+637,K273,ps 273 wortman
+638,K290,ps 290 juan morel campos
+639,K292,jhs 292 margaret s douglas
+640,K306,ps 306 ethan allen
+641,K325,the fresh creek school
+642,K328,ps 328 phyllis wheatley
+643,K345,ps 345 patrolman robert bolden
+644,K346,ps 346 abe stark
+645,K364,is 364 gateway
+646,K404,academy for young writers
+647,K409,east new york family academy
+648,K422,spring creek community school
+649,K452,frederick douglass academy viii middle school
+650,K557,brooklyn gardens elementary school
+651,K654,van siclen community middle school
+652,K661,vista academy
+653,K662,liberty avenue middle school
+654,K663,school of the future brooklyn
+655,K677,east new york elementary school of excellence
+656,K678,east new york middle school of excellence
+657,K760,highland park community school
+658,K030,ps/is 30 mary white ovington
+659,K048,ps 048 mapleton
+660,K062,jhs 062 ditmas
+661,K069,ps 69 vincent d grippo school
+662,K102,ps 102 the bayview
+663,K104,ps/is 104 the fort hamilton school
+664,K105,ps 105 the blythebourne
+665,K112,ps 112 lefferts park
+666,K127,ps 127 mckinley park
+667,K160,ps 160 william t sampson
+668,K163,ps 163 bath beach
+669,K164,ps 164 caesar rodney
+670,K170,ralph a fabrizio school
+671,K176,ps 176 ovington
+672,K179,ps 179 kensington
+673,K180,the seeall academy
+674,K185,ps 185 walter kassenbrock
+675,K186,ps 186 dr irving a gladstone
+676,K187,the christa mcauliffe school\is 187
+677,K192,ps 192 - the magnet school for math and science inquiry
+678,K200,ps 200 benson school
+679,K201,jhs 201 the dyker heights
+680,K204,ps 204 vince lombardi
+681,K205,ps 205 clarion
+682,K220,jhs 220 john j pershing
+683,K223,jhs 223 the montauk
+684,K227,jhs 227 edward b shallow
+685,K229,ps 229 dyker
+686,K247,ps 247 brooklyn
+687,K259,jhs 259 william mckinley
+688,K264,ps 264 bay ridge elementary school for the arts
+689,K310,the school for future leaders
+690,K503,ps 503: the school of discovery
+691,K506,ps 506: the school of journalism & technology
+692,K609,urban assembly school for criminal justice
+693,K682,the academy of talented scholars
+694,K686,brooklyn school of inquiry
+695,K748,ps 748 brooklyn school for global scholars
+696,K971,"school of math, science, and healthy living"
+697,K090,ps 90 edna cohen school
+698,K095,ps 095 the gravesend
+699,K096,is 096 seth low
+700,K097,ps 97 the highlawn
+701,K098,is 98 bay academy
+702,K099,ps 099 isaac asimov
+703,K100,ps 100 the coney island school
+704,K101,ps 101 the verrazano
+705,K121,ps 121 nelson a rockefeller
+706,K128,ps 128 bensonhurst
+707,K153,ps 153 homecrest
+708,K177,ps 177 the marlboro
+709,K188,ps 188 michael e berdy
+710,K199,ps 199 frederick wachtel
+711,K209,ps 209 margaret mead
+712,K212,ps 212 lady deborah moody
+713,K215,ps 215 morris h weiss
+714,K216,ps 216 arturo toscanini
+715,K225,ps k225 - the eileen e zaglin
+716,K226,ps 226 alfred de bmason
+717,K228,is 228 david a boody
+718,K238,ps 238 anne sullivan
+719,K239,mark twain is 239 for the gifted & talented
+720,K253,ps 253
+721,K281,is 281 joseph b cavallaro
+722,K288,ps 288 the shirley tanyhill
+723,K303,is 303 herbert s eisenberg
+724,K329,ps 329 surfside
+725,K468,kingsborough early college school
+726,K690,brooklyn studio secondary school
+727,K014,jhs 014 shell bank
+728,K052,ps 052 sheepshead bay
+729,K078,jhs 078 roy h mann
+730,K109,ps 109
+731,K119,ps 119 amersfort
+732,K134,ps k134
+733,K139,ps 139 alexine a fenty
+734,K152,school of science & technology
+735,K193,ps 193 gil hodges
+736,K194,ps 194 raoul wallenberg
+737,K195,ps 195 manhattan beach
+738,K197,ps 197 - the kings highway academy
+739,K198,ps 198 brooklyn
+740,K203,ps 203 floyd bennett school
+741,K206,ps 206 joseph f lamb
+742,K207,ps 207 elizabeth g leary
+743,K217,ps 217 colonel david marcus school
+744,K222,ps 222 katherine r snyder
+745,K234,jhs 234 arthur w cunningham
+746,K236,ps 236 mill basin
+747,K240,andries hudde
+748,K245,ps 245
+749,K251,ps 251 paerdegat
+750,K254,ps 254 dag hammarskjold
+751,K255,ps 255 barbara reing school
+752,K269,ps 269 nostrand
+753,K277,ps 277 gerritsen beach
+754,K278,jhs 278 marine park
+755,K312,ps 312 bergen beach
+756,K315,ps k315
+757,K326,ps 326
+758,K361,ps 361 east flatbush early childhood school
+759,K381,i s 381
+760,K889,ps 889
+761,K890,ms 890
+762,K041,ps 041 francis white
+763,K137,ps/is 137 rachel jean mitchell
+764,K150,ps 150 christopher
+765,K155,ps/ is 155 nicholas herkimer
+766,K156,ps 156 waverly
+767,K165,ps 165 ida posner
+768,K178,ps 178 saint clair mckelway
+769,K184,ps 184 newport
+770,K284,ps 284 lew wallace
+771,K298,ps 298 dr betty shabazz
+772,K323,ps/is 323
+773,K327,ps 327 dr rose b english
+774,K363,brownsville collaborative middle school
+775,K392,is 392
+776,K401,christopher avenue community school
+777,K446,riverdale avenue community school
+778,K518,kappa v
+779,K522,mott hall iv
+780,K599,brooklyn landmark elementary school
+781,K644,eagle academy for young men ii
+782,K664,brooklyn environmental exploration school (bees)
+783,K668,riverdale avenue middle school
+784,K671,mott hall bridges academy
+785,K697,teachers preparatory high school
+786,Q005,is 5 - the walter crowley intermediate school
+787,Q007,ps 007 louis f simeone
+788,Q012,ps 012 james b colgate
+789,Q013,ps 013 clement c moore
+790,Q014,ps 014 fairview
+791,Q016,ps q016 the nancy debenedittis school
+792,Q019,ps 019 marino jeantet
+793,Q028,ps 28 - the thomas emanuel early childhood center
+794,Q049,ps 049 dorothy bonawit kole
+795,Q058,ps 58 - the school of heroes
+796,Q061,is 061 leonardo da vinci
+797,Q068,ps 068 cambridge
+798,Q071,ps 071 forest
+799,Q073,is 73 - the frank sansivieri intermediate school
+800,Q077,is 077
+801,Q081,ps 81q jean paul richter
+802,Q087,ps / is 087 middle village
+803,Q088,ps 088 seneca
+804,Q089,ps 089 elmhurst
+805,Q091,ps 091 richard arkwright
+806,Q093,is 093 ridgewood
+807,Q102,ps 102 bayview
+808,Q110,ps 110
+809,Q113,ps/is 113 anthony j pranzo
+810,Q119,is 119 the glendale
+811,Q125,is 125 thom j mccann woodside
+812,Q128,"ps 128 the lorraine tuzzo, juniper valley elementary school"
+813,Q143,ps 143 louis armstrong
+814,Q153,ps 153 maspeth elem
+815,Q199,ps 199 maurice a fitzgerald
+816,Q211,elm tree elementary school
+817,Q229,ps 229 emanuel kaplan
+818,Q239,ps 239
+819,Q290,ace academy for scholars at the geraldine ferraro campus
+820,Q305,learners and leaders
+821,Q307,pioneer academy
+822,Q311,corona arts and sciences academy
+823,Q330,ps 330
+824,Q343,the children's lab school
+825,Q560,"robert f wagner, jr secondary school for arts and technology"
+826,Q877,the 51 avenue academy (the path to academic excellence)
+827,Q020,ps 020 john bowne
+828,Q021,ps 021 edward hart
+829,Q022,ps 022 thomas jefferson
+830,Q024,ps 024 andrew jackson
+831,Q025,is 025 adrien block
+832,Q029,ps 029 queens
+833,Q032,ps 032 state street
+834,Q079,ps 079 francis lewis
+835,Q107,ps 107 thomas a dooley
+836,Q120,ps 120 queens
+837,Q129,ps 129 patricia larkin
+838,Q130,ps 130
+839,Q154,ps 154 queens
+840,Q163,ps 163 flushing heights
+841,Q164,ps 164 queens valley
+842,Q165,ps 165 edith k bergtraum
+843,Q169,ps 169 bay terrace
+844,Q184,ps 184 flushing manor
+845,Q185,jhs 185 edward bleeker
+846,Q189,jhs 189 daniel carter beard
+847,Q193,ps 193 alfred j kennedy
+848,Q194,jhs 194 william carr
+849,Q200,ps/ms 200 - the pomonok school & star academy
+850,Q201,ps 201 the discovery school for inquiry and research
+851,Q209,ps 209 clearview gardens
+852,Q214,ps 214 cadwallader colden
+853,Q219,ps 219 paul klapper
+854,Q237,is 237
+855,Q242,ps 242 leonard p stavisky early childhood school
+856,Q244,the active learning elementary school
+857,Q250,is 250 the robert f kennedy community middle school
+858,Q252,"queens school of inquiry, the"
+859,Q281,east-west school of international studies
+860,Q285,world journalism preparatory: a college board school
+861,Q294,bell academy
+862,Q499,"the queens college school for math, science and technology"
+863,Q018,ps 018 winchester
+864,Q026,ps 026 rufus king
+865,Q031,ps 031 bayside
+866,Q041,ps 041 crocheron
+867,Q046,ps 046 alley pond
+868,Q067,jhs 067 louis pasteur
+869,Q074,jhs 074 nathaniel hawthorne
+870,Q094,ps 094 david d porter
+871,Q098,ps 098 the douglaston school
+872,Q115,ps 115 glen oaks
+873,Q133,ps 133 queens
+874,Q158,ms 158 marie curie
+875,Q159,ps 159
+876,Q162,ps 162 john golden
+877,Q172,irwin altman middle school 172
+878,Q173,ps 173 fresh meadows
+879,Q178,ps/ is 178 holliswood
+880,Q186,ps 186 castlewood
+881,Q188,ps 188 kingsbury
+882,Q191,ps 191 mayflower
+883,Q203,ps 203 oakland gardens
+884,Q205,ps 205 alexander graham bell
+885,Q213,ps 213 the carl ullman school
+886,Q216,jhs 216 george j ryan
+887,Q221,ps 221 the north hills school
+888,Q266,ps / is 266
+889,Q376,ps 376
+890,Q042,ps/ms 042 r vernam
+891,Q043,ps 043
+892,Q045,ps 045 clarence witherspoon
+893,Q047,ps 047 chris galas
+894,Q051,ps 051
+895,Q053,ms 053 brian piccolo
+896,Q056,ps 056 harry eichler
+897,Q060,ps 060 woodhaven
+898,Q062,p s 62 - chester park school
+899,Q063,ps 063 old south
+900,Q064,ps 064 joseph p addabbo
+901,Q065,ps 65 - the raymond york elementary school
+902,Q066,ps 066 jacqueline kennedy onassis
+903,Q090,ps 090 horace mann
+904,Q096,ps 096
+905,Q097,ps 097 forest park
+906,Q100,ps 100 glen morris
+907,Q104,ps 104 the bays water
+908,Q105,ps 105 the bay school
+909,Q106,ps 106
+910,Q108,ps 108 captain vincent g fowler
+911,Q114,ps / ms 114 belle harbor
+912,Q123,ps 123
+913,Q124,ps 124 osmond a church
+914,Q137,ms 137 america's school of heroes
+915,Q146,ps 146 howard beach
+916,Q155,ps 155
+917,Q183,ps 183 dr richard r green
+918,Q197,ps 197 the ocean school
+919,Q202,jhs 202 robert h goddard
+920,Q207,ps 207 rockwood park
+921,Q210,jhs 210 elizabeth blackwell
+922,Q223,ps 223 lyndon b johnson
+923,Q226,jhs 226 virgil i grissom
+924,Q232,ps 232 lindenwood
+925,Q253,ps 253
+926,Q254,ps 254 - the rosa parks school
+927,Q262,channel view school for research
+928,Q273,ps 273
+929,Q282,knowledge and power preparatory academy vi
+930,Q297,hawtree creek middle school
+931,Q306,new york city academy for discovery
+932,Q309,academy of medical technology: a college board school
+933,Q316,queens explorers elementary school
+934,Q317,waterside children's studio school
+935,Q318,waterside school for leadership
+936,Q319,village academy
+937,Q323,scholars' academy
+938,Q333,goldie maple academy
+939,Q362,wave preparatory elementary school
+940,Q377,ps 377
+941,Q008,jhs 008 richard s grossley
+942,Q040,ps 040 samuel huntington
+943,Q048,ps 048 william wordsworth
+944,Q050,ps 050 talfourd lawn elementary school
+945,Q054,ps 054 hillside
+946,Q055,ps 055 maure
+947,Q072,catherine & count basie middle school 72
+948,Q080,ps 80 the thurgood marshall magnet school of multimedia and communication
+949,Q082,ps 082 hammond
+950,Q086,ps q086
+951,Q099,ps 099 kew gardens
+952,Q101,ps 101 school in the gardens
+953,Q117,ps 117 j keld / briarwood school
+954,Q121,ps 121 queens
+955,Q139,ps 139 rego park
+956,Q140,ps 140 edward k ellington
+957,Q144,ps 144 col jeromus remsen
+958,Q157,jhs 157 stephen a halsey
+959,Q160,ps 160 walter francis bishop
+960,Q161,ps 161 arthur ashe school
+961,Q167,metropolitan expeditionary learning school
+962,Q174,ps 174 william sidney mount
+963,Q175,ps 175 the lynn gross discovery school
+964,Q182,ps 182 samantha smith
+965,Q190,jhs 190 russell sage
+966,Q196,ps 196 grand central parkway
+967,Q206,ps 206 the horace harding school
+968,Q217,jhs 217 robert a van wyck
+969,Q220,ps 220 edward mandel
+970,Q284,york early college academy
+971,Q287,the emerson school
+972,Q303,the academy for excellence through the arts
+973,Q310,queens collegiate: a college board school
+974,Q312,jamaica children's school
+975,Q332,redwood middle school
+976,Q349,ps 349
+977,Q354,ps 354
+978,Q358,ms 358
+979,Q680,queens gateway to health sciences secondary school
+980,Q896,"young women's leadership school, queens"
+981,Q015,ps 015 jackie robinson
+982,Q033,ps 033 edward m funk
+983,Q034,ps 034 john harvard
+984,Q035,ps 035 nathaniel woodhull
+985,Q036,ps 036 saint albans school
+986,Q037,cynthia jenkins school
+987,Q038,ps 038 rosedale
+988,Q052,ps 052 queens
+989,Q059,is 059 springfield gardens
+990,Q095,ps 095 eastwood
+991,Q109,jean nuzzi intermediate school
+992,Q116,ps/is 116 william c hughley
+993,Q118,ps 118 lorraine hansberry
+994,Q131,ps 131 abigail adams
+995,Q132,ps 132 ralph bunche
+996,Q134,ps 134 hollis
+997,Q135,the bellaire school
+998,Q136,ps 136 roy wilkins
+999,Q138,ps/ ms138 sunrise
+1000,Q147,ps/ms 147 ronald mcnair
+1001,Q156,ps 156 laurelton
+1002,Q176,ps 176 cambria heights
+1003,Q181,ps 181 brookfield
+1004,Q192,is 192 the linden
+1005,Q195,ps 195 william haberle
+1006,Q208,ps / is 208
+1007,Q238,is 238 - susan b anthony academy
+1008,Q251,ps 251 queens
+1009,Q259,pathways college preparatory school: a college board school
+1010,Q268,ps/is 268
+1011,Q270,the gordon parks school
+1012,Q283,preparatory academy for writers: a college board school
+1013,Q289,queens united middle school
+1014,Q295,ps/is 295
+1015,Q327,eagle academy for young men iii
+1016,Q355,collaborative arts middle school
+1017,Q356,community voices middle school
+1018,Q360,ps 360
+1019,Q002,ps 002 alfred zimberg
+1020,Q010,is 010 horace greeley
+1021,Q011,ps 011 kathryn phelan
+1022,Q017,ps 017 henry david thoreau
+1023,Q069,ps 069 jackson heights
+1024,Q070,ps 070 queens
+1025,Q076,ps 076 william hallet
+1026,Q078,ps/is 78q
+1027,Q084,ps 084 steinway
+1028,Q085,ps 085 judge charles vallone
+1029,Q092,ps 092 harry t stewart sr
+1030,Q111,ps 111 jacob blackwell
+1031,Q112,ps 112 dutch kills
+1032,Q122,ps 122 mamie fay
+1033,Q126,albert shanker school for visual and performing arts
+1034,Q127,ps 127 aerospace science magne
+1035,Q141,is 141 the steinway
+1036,Q145,is 145 joseph pulitzer
+1037,Q148,ps 148 queens
+1038,Q149,ps 149 christa mcauliffe
+1039,Q150,ps 150 queens
+1040,Q151,ps 151 mary d carter
+1041,Q152,ps 152 gwendoline n alleyne school
+1042,Q166,ps 166 henry gradstein
+1043,Q171,ps 171 peter g van alst
+1044,Q204,is 204 oliver w holmes
+1045,Q212,ps 212
+1046,Q222,ps q222 - fire fighter christopher a santora school
+1047,Q227,is 227 louis armstrong
+1048,Q228,ps 228 early childhood magnet school of the arts
+1049,Q230,is 230
+1050,Q234,ps 234
+1051,Q235,academy for new americans
+1052,Q280,ps 280
+1053,Q286,"young women's leadership school, astoria"
+1054,Q291,hunters point community middle school
+1055,Q300,the 30th avenue school (g&t citywide)
+1056,Q329,east elmhurst community school
+1057,Q361,ps 361
+1058,Q580,baccalaureate school for global education
+1059,R001,ps 001 tottenville
+1060,R002,is r002 george l egbert
+1061,R003,ps 003 the margaret gioiosa school
+1062,R004,ps 004 maurice wollin
+1063,R005,ps 005 huguenot
+1064,R006,ps 6 corporal allan f kivlehan school
+1065,R007,is 007 elias bernstein
+1066,R008,ps 8 shirlee solomon
+1067,R009,naples street elementary school
+1068,R010,fort hill collaborative elementary school
+1069,R011,ps 11 thomas dongan school
+1070,R013,ps 013 m l lindemeyer
+1071,R016,ps 016 john j driscoll
+1072,R018,ps 018 john g whittier
+1073,R019,ps 019 the curtis school
+1074,R020,ps 020 port richmond
+1075,R021,ps 21 margaret emery-elm park
+1076,R022,ps 022 graniteville
+1077,R023,ps 023 richmondtown
+1078,R024,is 024 myra s barnes
+1079,R026,ps 026 the carteret school
+1080,R027,is 027 anning s prall
+1081,R028,the eagle academy for young men of staten island
+1082,R029,ps 029 bardwell
+1083,R030,ps 030 westerleigh
+1084,R031,ps 031 william t davis
+1085,R032,ps 032 the gifford school
+1086,R034,is 034 tottenville
+1087,R035,ps 35 the clove valley school
+1088,R036,ps 036 j c drumgoole
+1089,R038,ps 038 george cromwell
+1090,R039,ps 39 francis j murphy jr
+1091,R041,ps 041 new dorp
+1092,R042,ps 042 eltingville
+1093,R044,ps 044 thomas c brown
+1094,R045,ps 045 john tyler
+1095,R046,ps 046 albert v maniscalco
+1096,R048,ps 048 william g wilcox
+1097,R049,is 49 berta a dreyfus
+1098,R050,ps 050 frank hankinson
+1099,R051,is 051 edwin markham
+1100,R052,ps 052 john c thompson
+1101,R053,ps 053 bay terrace
+1102,R054,ps 054 charles w leng
+1103,R055,ps 055 henry m boehm
+1104,R056,ps 56 the louis desario school
+1105,R057,ps 057 hubert h humphrey
+1106,R058,space shuttle columbia school
+1107,R059,the harbor view school
+1108,R060,ps 060 alice austen
+1109,R061,is 061 william a morris
+1110,R062,ps 62
+1111,R063,marsh avenue school for expeditionary learning
+1112,R065,ps 65 the academy of innovative learning
+1113,R068,port richmond school for visionary learning
+1114,R069,ps 069 daniel d tompkins
+1115,R072,is 072 rocco laurie
+1116,R074,ps 74 future leaders elementary school
+1117,R075,is 075 frank d paulo
+1118,R078,ps 78
+1119,R080,the michael j petrides school
+1120,R861,staten island school of civic leadership
+1121,K045,ps/is 045 horace e greene
+1122,K075,ps 075 mayda cortiella
+1123,K086,ps 086 the irvington
+1124,K106,ps 106 edward everett hale
+1125,K116,ps 116 elizabeth l farrell
+1126,K123,ps 123 suydam
+1127,K145,ps 145 andrew jackson
+1128,K151,ps 151 lyndon b johnson
+1129,K162,jhs 162 the willoughby
+1130,K274,ps 274 kosciusko
+1131,K291,jhs 291 roland hayes
+1132,K299,ps 299 thomas warren field
+1133,K347,is 347 school of humanities
+1134,K349,"is 349 math, science & tech"
+1135,K376,ps 376
+1136,K377,ps 377 alejandrina b de gautier
+1137,K383,jhs 383 philippa schuyler
+1138,K384,ps /is 384 frances e carter
+1139,K554,all city leadership secondary school
+1140,K562,evergreen middle school for urban exploration
+1141,M325,p.s. 325
+1142,X162,j.h.s. 162 lola rodriguez de tio
+1143,X335,the academy of the arts
+1144,X145,j.h.s. 145 arturo toscanini
+1145,X289,the young scholars academy of the bronx
+1146,K429,brooklyn school for global studies
+1147,K584,m.s. 584
+1148,K533,school for democracy and leadership
+1149,K311,essence school
+1150,M137,p.s. 137 john l. bernstein
+1151,M292,henry street school for international studies
+1152,M345,"collaborative academy of science, technology, & language-arts education"
+1153,M381,global neighborhood secondary school
+1154,M410,the urban assembly institute for new technologies
+1155,M326,m.s. 326 - writers today & leaders tomorrow
+1156,X385,performance school
+1157,X366,urban assembly academy of civic engagement
+1158,X064,p.s. 064 pura belpre
+1159,X230,p.s. 230 dr roland n. patterson
+1160,X272,globe school for environmental research
+1161,X050,p.s. 050 clara barton
+1162,K596,ms 596 peace academy
+1163,K330,the school for the urban environment
+1164,K385,"school of business, finance and entrepreneurship"
+1165,K534,upper school @ p.s. 25
+1166,K636,young scholars' academy for discovery and exploration
+1167,K167,p.s. 167 the parkway
+1168,K334,middle school for academic and social excellence
+1169,K174,p.s. 174 dumont
+1170,K073,p.s. 073 thomas s. boyland
+1171,M448,university neighborhood high school
+1172,M458,forsyth satellite academy
+1173,M509,marta valle high school
+1174,M515,lower east side preparatory high school
+1175,M650,cascades high school
+1176,M696,bard high school early college
+1177,M047,47 the american sign language and english secondary school
+1178,M135,the urban assembly school for emergency management
+1179,M139,stephen t. mather building arts & craftsmanship high school
+1180,M280,manhattan early college school for advertising
+1181,M282,urban assembly maker academy
+1182,M288,food and finance high school
+1183,M294,essex street academy
+1184,M296,high school of hospitality management
+1185,M298,pace high school
+1186,M300,"urban assembly school of design and construction, the"
+1187,M303,"facing history school, the"
+1188,M305,"urban assembly academy of government and law, the"
+1189,M308,lower manhattan arts academy
+1190,M313,"james baldwin school, the: a school for expeditionary learning"
+1191,M316,"urban assembly school of business for young women, the"
+1192,M374,gramercy arts high school
+1193,M376,nyc ischool
+1194,M392,manhattan business academy
+1195,M393,business of sports school
+1196,M394,emma lazarus high school
+1197,M399,the high school for language and diplomacy
+1198,M400,high school for environmental studies
+1199,M411,baruch college campus high school
+1200,M412,n.y.c. lab school for collaborative studies
+1201,M414,n.y.c. museum school
+1202,M416,eleanor roosevelt high school
+1203,M418,millennium high school
+1204,M419,landmark high school
+1205,M420,high school for health professions and human services
+1206,M425,leadership and public service high school
+1207,M427,manhattan academy for arts & language
+1208,M429,legacy school for integrated studies
+1209,M432,murray hill academy
+1210,M437,hudson high school of learning technologies
+1211,M438,international high school at union square
+1212,M439,manhattan village academy
+1213,M449,vanguard high school
+1214,M459,manhattan international high school
+1215,M460,washington irving high school
+1216,M475,stuyvesant high school
+1217,M489,high school of economics and finance
+1218,M500,unity center for urban technologies
+1219,M507,urban assembly gateway school for technology
+1220,M519,talent unlimited high school
+1221,M520,murry bergtraum high school for business careers
+1222,M529,jacqueline kennedy onassis high school
+1223,M531,repertory company high school for theatre arts
+1224,M533,union square academy for health sciences
+1225,M534,harvest collegiate high school
+1226,M542,manhattan bridges high school
+1227,M543,new design high school
+1228,M544,independence high school
+1229,M545,high school for dual language and asian studies
+1230,M546,academy for software engineering
+1231,M550,liberty high school academy for newcomers
+1232,M551,urban assembly new york harbor school
+1233,M560,high school m560 - city as school
+1234,M570,satellite academy high school
+1235,M575,manhattan comprehensive night and day high school
+1236,M580,richard r. green high school of teaching
+1237,M586,harvey milk high school
+1238,M600,the high school of fashion industries
+1239,M605,humanities preparatory academy
+1240,M615,chelsea career and technical education high school
+1241,M625,high school of graphic communication arts
+1242,M630,art and design high school
+1243,M283,manhattan theatre lab high school
+1244,M299,"high school for arts, imagination and inquiry"
+1245,M307,"urban assembly school for media studies, the"
+1246,M402,the urban assembly school for green careers
+1247,M403,the global learning collaborative
+1248,M404,innovation diploma plus
+1249,M417,frank mccourt high school
+1250,M479,beacon high school
+1251,M485,fiorello h. laguardia high school of music & art and performing arts
+1252,M492,"high school for law, advocacy and community justice"
+1253,M494,high school of arts and technology
+1254,M505,edward a. reynolds west side high school
+1255,M541,manhattan / hunter science high school
+1256,M013,j.h.s. 013 jackie robinson
+1257,M409,coalition school for social change
+1258,M435,manhattan center for science and mathematics
+1259,M495,park east high school
+1260,M555,central park east high school
+1261,M680,"heritage school, the"
+1262,M157,the urban assembly school for global commerce
+1263,M285,harlem renaissance high school
+1264,M304,mott hall high school
+1265,M367,academy for social action: a college board school
+1266,M369,urban assembly school for the performing arts
+1267,M469,choir academy of harlem
+1268,M685,bread & roses integrated arts high school
+1269,M692,"high school for mathematics, science and engineering at city college"
+1270,M211,inwood early college for health and information technologies
+1271,M423,high school for excellence and innovation
+1272,M462,the college academy
+1273,M463,high school for media and communications
+1274,M467,high school for law and public service
+1275,M468,high school for health careers and sciences
+1276,M540,a. philip randolph campus high school
+1277,M552,gregorio luperon high school for science and mathematics
+1278,X203,m.s. 203
+1279,X259,"health, education, and research occupations (h.e.r.o.) high school"
+1280,X321,crotona academy high school
+1281,X334,international community high school
+1282,X379,jill chaifetz transfer high school
+1283,X427,community school for social justice
+1284,X473,mott haven village preparatory high school
+1285,X495,university heights secondary school
+1286,X520,foreign language academy of global studies
+1287,X522,bronx design and construction academy
+1288,X527,bronx leadership academy ii high school
+1289,X547,new explorers high school
+1290,X548,urban assembly school for careers in sports
+1291,X557,mott haven community high school
+1292,X600,alfred e. smith career and technical education high school
+1293,X655,samuel gompers career and technical education high school
+1294,X670,health opportunities high school
+1295,X282,women's academy of excellence
+1296,X293,renaissance high school for musical theater & technology
+1297,X295,gateway school for environmental research and technology
+1298,X305,pablo neruda academy for architecture and world studies
+1299,X312,millennium art academy
+1300,X320,pelham lab high school
+1301,X332,holcombe l. rucker school of community research
+1302,X348,schuylerville preparatory high school
+1303,X349,bronx river high school
+1304,X377,bronx community high school
+1305,X405,herbert h. lehman high school.
+1306,X432,bronx bridges high school
+1307,X452,bronx guild
+1308,X519,"felisa rincon de gautier institute for law and public policy, the"
+1309,X530,banana kelly high school
+1310,X558,westchester square academy
+1311,X559,school for tourism and hospitality
+1312,X561,bronx compass high school
+1313,X650,jane addams high school for academic careers
+1314,X227,bronx collegiate academy
+1315,X250,eximius college preparatory academy: a college board school
+1316,X252,mott hall bronx high school
+1317,X260,bronx center for science and mathematics
+1318,X263,validus preparatory academy: an expeditionary learning school
+1319,X276,leadership institute
+1320,X297,morris academy for collaborative studies
+1321,X329,dreamyard preparatory school
+1322,X403,bronx international high school
+1323,X404,school for excellence
+1324,X412,bronx high school of business
+1325,X414,jonathan levin high school for media and communications
+1326,X517,frederick douglass academy iii secondary school
+1327,X525,bronx leadership academy high school
+1328,X543,high school for violin and dance
+1329,X564,claremont international hs
+1330,X213,bronx engineering and technology academy
+1331,X237,"the marie curie school for medicine, nursing, and health professions"
+1332,X264,bronx academy for software engineering (base)
+1333,X268,kingsbridge international high school
+1334,X284,bronx school of law and finance
+1335,X319,providing urban learners success in education high school
+1336,X351,bronx collaborative high school
+1337,X353,world view high school
+1338,X374,knowledge and power preparatory academy international high school (kappa)
+1339,X397,english language learners and international support preparatory academy (ellis)
+1340,X433,high school for teaching and the professions
+1341,X434,belmont preparatory high school
+1342,X437,fordham high school for the arts
+1343,X438,fordham leadership academy for business and technology
+1344,X439,bronx high school for law and community service
+1345,X440,dewitt clinton high school
+1346,X442,"celia cruz bronx high school of music, the"
+1347,X445,bronx high school of science
+1348,X477,marble hill high school for international studies
+1349,X524,crotona international high school
+1350,X546,bronx theatre high school
+1351,X549,discovery high school
+1352,X565,high school for energy and technology
+1353,X660,grace dodge career and technical education high school
+1354,X696,high school of american studies at lehman college
+1355,X142,ms 142 john philip sousa
+1356,X249,bronx health sciences high school
+1357,X253,bronx high school for writing and communication arts
+1358,X265,bronx lab school
+1359,X270,academy for scholarship and entrepreneurship: a college board school
+1360,X275,high school of computers and technology
+1361,X288,collegiate institute for math and science
+1362,X290,bronx academy of health careers
+1363,X299,astor collegiate academy
+1364,X418,bronx high school for the visual arts
+1365,X455,harry s truman high school
+1366,X508,bronxdale high school
+1367,X509,high school of language and innovation
+1368,X513,new world high school
+1369,X514,the bronxwood preparatory academy
+1370,X542,pelham preparatory academy
+1371,X544,high school for contemporary arts
+1372,X545,bronx aerospace high school
+1373,X248,"metropolitan high school, the"
+1374,X251,explorations academy
+1375,X278,peace and diversity academy
+1376,X388,pan american international high school at monroe
+1377,X446,arturo a. schomburg satellite academy bronx
+1378,X478,the cinema school
+1379,X479,bronx career and college preparatory high school
+1380,X480,bronx regional high school
+1381,X511,bronx envision academy
+1382,X521,the metropolitan soundview high school
+1383,X550,high school of world cultures
+1384,X684,wings academy
+1385,X692,monroe academy for visual arts & design
+1386,K350,urban assembly high school of music and art
+1387,K412,"brooklyn community high school of communication, arts and media"
+1388,K419,"science skills center high school for science, technology and the creative arts"
+1389,K430,brooklyn technical high school
+1390,K439,brooklyn international high school
+1391,K483,the urban assembly school for law and justice
+1392,K499,acorn community high school
+1393,K553,brooklyn academy high school
+1394,K575,bedford stuyvesant preparatory high school
+1395,K595,bedford academy high school
+1396,K605,george westinghouse career and technical education high school
+1397,K616,brooklyn high school for leadership and community service
+1398,K670,benjamin banneker academy
+1399,K674,"city polytechnic high school of engineering, architecture, and technology"
+1400,K019,p.s. 019 roberto clemente
+1401,K322,foundations academy
+1402,K449,"brooklyn latin school, the"
+1403,K454,green school: an academy for environmental careers
+1404,K474,progress high school for professional careers
+1405,K477,school for legal studies
+1406,K478,"the high school for enterprise, business and technology"
+1407,K488,brooklyn preparatory high school
+1408,K558,williamsburg high school for architecture and design
+1409,K561,williamsburg preparatory school
+1410,K610,automotive high school
+1411,K632,frances perkins academy
+1412,K685,el puente academy for peace and justice
+1413,K423,brooklyn frontiers high school
+1414,K462,secondary school for law
+1415,K463,secondary school for journalism
+1416,K519,cobble hill school of american studies
+1417,K529,west brooklyn community high school
+1418,K592,khalil gibran international academy
+1419,K656,brooklyn high school of the arts
+1420,K667,sunset park high school
+1421,K684,millennium brooklyn hs
+1422,K698,south brooklyn community high school
+1423,K393,frederick douglass academy iv secondary school
+1424,K455,boys and girls high school
+1425,K498,brooklyn high school for law and technology
+1426,K594,gotham professional arts academy
+1427,K669,research and service hs
+1428,K688,the brooklyn academy of global finance
+1429,K765,nelson mandela school for social justice
+1430,K122,pathways in technology early college high school (p-tech)
+1431,K408,academy of hospitality and tourism
+1432,K489,w.e.b. dubois academic high school
+1433,K524,international high school at prospect heights
+1434,K528,the high school for global citizenship
+1435,K537,high school for youth and community development at erasmus
+1436,K539,high school for service & learning at erasmus
+1437,K544,international arts business school
+1438,K546,high school for public service: heroes of tomorrow
+1439,K547,brooklyn academy of science and the environment
+1440,K548,brooklyn school for music & theatre
+1441,K568,brownsville academy high school
+1442,K600,clara barton high school
+1443,K745,brooklyn institute for liberal arts
+1444,K751,academy for health careers
+1445,K563,it takes a village academy
+1446,K566,brooklyn generation school
+1447,K567,brooklyn theatre arts high school
+1448,K569,kurt hahn expeditionary learning school
+1449,K576,victory collegiate high school
+1450,K578,brooklyn bridge academy
+1451,K589,arts & media preparatory academy
+1452,K617,high school for innovation in advertising and media
+1453,K629,cultural academy for the arts and sciences
+1454,K633,high school for medical professions
+1455,K635,olympus academy
+1456,K637,academy for conservation and the environment
+1457,K642,urban action academy
+1458,K673,east brooklyn community high school
+1459,K166,j.h.s. 166 george gershwin
+1460,K302,j.h.s. 302 rafael cordero
+1461,K502,fdny high school for fire and life safety
+1462,K504,high school for civil rights
+1463,K507,performing arts and technology high school
+1464,K510,world academy for total community health high school
+1465,K583,multicultural high school
+1466,K615,transit tech career and technical education high school
+1467,K618,academy of innovative technology
+1468,K639,brooklyn lab school
+1469,K659,cypress hills collegiate preparatory school
+1470,K660,w. h. maxwell career and technical education high school
+1471,K683,"the school for classics: an academy of thinkers, writers and performers"
+1472,K764,the urban assembly school for collaborative healthcare
+1473,K445,new utrecht high school
+1474,K485,high school of telecommunication arts and technology
+1475,K490,fort hamilton high school
+1476,K505,franklin delano roosevelt high school
+1477,K337,international high school at lafayette
+1478,K344,rachel carson high school for coastal studies
+1479,K348,high school of sports management
+1480,K410,abraham lincoln high school
+1481,K525,edward r. murrow high school
+1482,K540,john dewey high school
+1483,K559,life academy high school for film and music
+1484,K572,expeditionary learning school for community leaders
+1485,K620,william e. grady career and technical education high school
+1486,K728,liberation diploma plus
+1487,K405,midwood high school
+1488,K425,james madison high school
+1489,K495,sheepshead bay high school
+1490,K535,leon m. goldstein high school for the sciences
+1491,K555,brooklyn college academy
+1492,K611,origins high school
+1493,K630,professional pathways high school
+1494,K493,brooklyn collegiate: a college board school
+1495,K514,frederick douglass academy vii high school
+1496,K631,general d. chappie james elementary school of science
+1497,K634,general d. chappie james middle school of science
+1498,K643,brooklyn democracy academy
+1499,K646,aspirations diploma plus high school
+1500,K647,metropolitan diploma plus high school
+1501,Q236,international high school for health sciences
+1502,Q264,academy of finance and enterprise
+1503,Q267,high school of applied communication
+1504,Q293,civic leadership academy
+1505,Q296,pan american international high school
+1506,Q299,bard high school early college queens
+1507,Q455,newtown high school
+1508,Q485,grover cleveland high school
+1509,Q520,middle college high school at laguardia community college
+1510,Q530,international high school at laguardia community college
+1511,Q550,high school for arts and business
+1512,Q585,maspeth high school
+1513,Q600,queens vocational and technical high school
+1514,Q610,aviation career & technical education high school
+1515,Q240,veritas academy
+1516,Q241,queens high school for language studies
+1517,Q263,flushing international high school
+1518,Q425,john bowne high school
+1519,Q460,flushing high school
+1520,Q525,townsend harris high school
+1521,Q540,queens academy high school
+1522,Q670,robert f. kennedy community high school
+1523,Q792,north queens community high school
+1524,Q315,business technology early college high school
+1525,Q415,benjamin n. cardozo high school
+1526,Q430,francis lewis high school
+1527,Q435,martin van buren high school
+1528,Q495,bayside high school
+1529,Q566,"queens high school of teaching, liberal arts and the sciences"
+1530,Q215,p.s. 215 lucretia mott
+1531,Q260,frederick douglass academy vi high school
+1532,Q261,voyages preparatory - south queens
+1533,Q302,"queens high school for information, research, and technology"
+1534,Q308,robert h. goddard high school of communication arts and technology
+1535,Q314,epic high school - south
+1536,Q324,rockaway park high school for environmental sustainability
+1537,Q334,epic high school - north
+1538,Q351,rockaway collegiate high school
+1539,Q400,august martin high school
+1540,Q475,richmond hill high school
+1541,Q480,john adams high school
+1542,Q650,"high school for construction trades, engineering and architecture"
+1543,Q325,hillside arts & letters academy
+1544,Q328,high school for community leadership
+1545,Q338,queens satellite high school for opportunity
+1546,Q350,jamaica gateway to the sciences
+1547,Q440,forest hills high school
+1548,Q505,hillcrest high school
+1549,Q620,thomas a. edison career and technical education high school
+1550,Q686,queens metropolitan high school
+1551,Q687,queens high school for the sciences at york college
+1552,Q690,high school for law enforcement and public safety
+1553,Q243,institute for health professions at cambria heights
+1554,Q248,queens preparatory academy
+1555,Q265,excelsior preparatory high school
+1556,Q272,george washington carver high school for the sciences
+1557,Q313,benjamin franklin high school for finance and information technology
+1558,Q326,cambria heights academy
+1559,Q492,"mathematics, science research and technology magnet high school"
+1560,Q494,"law, government and community service high school"
+1561,Q496,"business, computer applications & entrepreneurship high school"
+1562,Q498,humanities & arts magnet high school
+1563,Q258,energy tech high school
+1564,Q301,academy for careers in television and film
+1565,Q445,william cullen bryant high school
+1566,Q450,long island city high school
+1567,Q501,frank sinatra school of the arts high school
+1568,Q502,information technology high school
+1569,Q555,newcomers high school
+1570,Q575,academy of american studies
+1571,R014,p.s. 014 cornelius vanderbilt
+1572,R047,csi high school for international studies
+1573,R064,gaynor mccown expeditionary learning school
+1574,R440,new dorp high school
+1575,R445,port richmond high school
+1576,R450,curtis high school
+1577,R455,tottenville high school
+1578,R460,susan e. wagner high school
+1579,R470,concord high school
+1580,R600,ralph r. mckee career and technical education high school
+1581,R605,staten island technical high school
+1582,K168,the brooklyn school for math and research
+1583,K403,academy for environmental leadership
+1584,K545,ebc high school for public service–bushwick
+1585,K549,bushwick school for social justice
+1586,K552,academy of urban planning
+1587,K556,bushwick leaders high school for academic excellence
+1588,K564,bushwick community high school
+1589,M620,norman thomas high school
+1590,M635,academy of environmental science secondary high school
+1591,X381,bronx haven high school
+1592,X537,bronx arena high school
+1593,X540,school for community research and learning
+1594,X239,"urban assembly academy for history and citizenship for young men, the"
+1595,X475,john f. kennedy high school
+1596,X322,aspire preparatory middle school
+1597,X415,christopher columbus high school
+1598,X541,global enterprise high school
+1599,X102,p.s. 102 joseph o. loretan
+1600,X262,performance conservatory high school
+1601,X682,fannie lou hamer freedom high school
+1602,X690,monroe academy for business/law
+1603,K103,satellite three
+1604,K022,p.s. 022
+1605,K587,middle school for the arts
+1606,K625,paul robeson high school
+1607,K260,p.s. 260 breuckelen
+1608,K332,p.s. 332 charles h. houston
+1609,Q744,voyages preparatory
+1610,Q410,beach channel high school
+1611,Q030,p.s. 030 queens
+1612,Q470,jamaica high school
+1613,K296,i.s. 296 - the anna gonzalez community school
+1614,M045,j.h.s. m045 john s. roberts
+1615,M195,i.s. 195 roberto clemente
+1616,X560,high school x560 - bronx academy hs
+1617,X365,academy for language and technology
+1618,X245,new day academy
+1619,K509,freedom academy high school
+1620,K571,m.s. 571
+1621,K530,metropolitan corporate academy
+1622,Q231,i.s. 231 magnetech 2000
+1623,M440,bayard rustin educational complex
+1624,M470,louis d. brandeis high school
+1625,X002,p.s. 002 morrisania
+1626,X198,p.s. 198
+1627,K336,academy of business and community development
+1628,K520,pacific high school
+1629,K420,franklin k. lane high school
+1630,K027,agnes y. humphrey school for leadership
+1631,K500,canarsie high school
+1632,K072,p.s./i.s. 072 annette p goldman
+1633,K645,ebc/eny high school for public safety & law
+1634,M044,j.h.s. m044 william j. o'shea
+1635,M317,kappa ii
+1636,M344,academy of collaborative education
+1637,M321,m.s. 321 - minerva
+1638,Q225,p.s. 225 seaside
+1639,Q465,far rockaway high school
+1640,X090,p.s. 090 george meany
+1641,X166,j.h.s. 166 roberto clemente
+1642,X079,p.s. 079 creston
+1643,X399,m.s. 399
+1644,X680,bronx coalition community high school
